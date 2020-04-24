@@ -1,14 +1,13 @@
-<h1 align="center">WebBot
+<h1 align="center">HBot
 
 </h1>
 <p align="center">An open-source Unlimited Website View Increaser.</p><br>
 
 
-###############  Coded by      : tuhin1729 ##############<br>
-##############  Instagram id   : www.instagram.com/tuhin1729 ##############<br>
-##############  Github         : www.github.com/tuhin1729 ##############<br>
-############## YouTube Channel : https://bit.ly/TuhinTheHacker ##############<br>
-############## Dedicated to    : Diya Saha ##############<br>
+###############  Coded by      : Hacker-Yadav ##############<br>
+##############  Instagram id   : www.instagram.com/krazy_hemant ##############<br>
+##############  Github         : www.github.com/Hacker-Yadav ##############<br>
+
 
 
 
