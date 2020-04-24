@@ -1,4 +1,4 @@
-<h1 align="center">HBot
+e<h1 align="center">HBot
 
 </h1>
 <p align="center">An open-source Unlimited Website View Increaser.</p><br>
@@ -17,7 +17,7 @@
 
 - The script requires working network connection to work.
 - This script is only for educational purposes.
-- **Developer is not responsible for the misuse of WebBot.**
+- **Developer is not responsible for the misuse of HBot.**
 <br>
 
 ## Features:
@@ -29,7 +29,7 @@
 
 ## Usage:
 
-Run these commands to run WebBot
+Run these commands to run HBot
 
 ### > For Termux:
 
@@ -46,10 +46,10 @@ pkg install git
 pkg install python2
 pkg install tor
 https://github.com/Hacker-Yadav/HBot.git
-cd WebBot
+cd HBot
 pip2 install -r requirements.txt
 tor          [Open Another Session and type tor]
-python2 webbot.py
+python2 HBot.py
 ```
 
 ### > For Linux:
@@ -60,10 +60,10 @@ To use the scanner type the following commands in Linux terminal:
 ```
 apt-get install tor
 https://github.com/Hacker-Yadav/HBot.git
-cd WebBot
+cd HBot
 pip install -r requirements.txt
 service tor start
-python2 webbot.py
+python2 HBot.py
 ```
 
 
