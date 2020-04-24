@@ -45,7 +45,7 @@ To use the scanner type the following commands in Termux:
 pkg install git
 pkg install python2
 pkg install tor
-git clone https://github.com/tuhin1729/WebBot.git
+https://github.com/Hacker-Yadav/HBot.git
 cd WebBot
 pip2 install -r requirements.txt
 tor          [Open Another Session and type tor]
@@ -59,7 +59,7 @@ python2 webbot.py
 To use the scanner type the following commands in Linux terminal:
 ```
 apt-get install tor
-git clone https://github.com/tuhin1729/WebBot.git
+https://github.com/Hacker-Yadav/HBot.git
 cd WebBot
 pip install -r requirements.txt
 service tor start
@@ -73,8 +73,8 @@ python2 webbot.py
 Feel Free To Open An Issue...
 
 ```
-                 Instagram id: @tuhin1729
-       YouTube Channel : https://bit.ly/TuhinTheHacker
+                 Instagram id: @krazy_hemant
+     
 ```
 
 
